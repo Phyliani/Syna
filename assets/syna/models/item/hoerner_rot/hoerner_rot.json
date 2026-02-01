@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/3d/horner/horner",
-		"particle": "item/3d/horner/horner"
+		"0": "syna:item/hoerner_rot/hoerner_rot",
+		"particle": "syna:item/hoerner_rot/hoerner_rot"
 	},
 	"elements": [
 		{
