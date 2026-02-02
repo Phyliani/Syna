@@ -21,7 +21,10 @@
   "model": "syna:item/propellerhut/propellerhut" },
 
   {"predicate": {"custom_model_data":8007},
-  "model": "syna:item/halo_engel/halo_engel" }
+  "model": "syna:item/halo_engel/halo_engel" },
+  
+  {"predicate": {"custom_model_data":8008},
+  "model": "syna:item/daemonenhorn_braun/daemonenhorn_braun" }
   
  ]
 }
