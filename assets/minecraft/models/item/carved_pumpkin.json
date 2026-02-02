@@ -18,7 +18,10 @@
   "model": "syna:item/hoerner_rot/hoerner_rot"},
 
   {"predicate": {"custom_model_data":8006},
-  "model": "syna:item/propellerhut/propellerhut" }
+  "model": "syna:item/propellerhut/propellerhut" },
+
+  {"predicate": {"custom_model_data":8007},
+  "model": "syna:item/halo_engel/halo_engel" }
   
  ]
 }
