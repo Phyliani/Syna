@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "syna:item/demon/demon",
-		"particle": "syna:item/demon/demon"
+		"0": "syna:item/carved_pumpkin/demon/demon",
+		"particle": "syna:item/carved_pumpkin/demon/demon"
 	},
 	"elements": [
 		{

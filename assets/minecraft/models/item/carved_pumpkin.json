@@ -3,28 +3,27 @@
   "overrides": [
   
     {"predicate": {"custom_model_data":8001}, 
-  "model": "syna:item/armband_demon/armband_demon"},
+  "model": "syna:item/carved_pumpkin/armband_demon/armband_demon"},
   
   {"predicate": {"custom_model_data":8002}, 
-  "model": "syna:item/armband_elf/armband_elf"},
+  "model": "syna:item/carved_pumpkin/armband_elf/armband_elf"},
   
   {"predicate": {"custom_model_data":8003}, 
-  "model": "syna:item/blumenkranz/blumenkranz"},
+  "model": "syna:item/carved_pumpkin/blumenkranz/blumenkranz"},
   
   {"predicate": {"custom_model_data":8004}, 
-  "model": "syna:item/demon/demon"},
+  "model": "syna:item/carved_pumpkin/demon/demon"},
   
   {"predicate": {"custom_model_data":8005}, 
-  "model": "syna:item/hoerner_rot/hoerner_rot"},
-
+  "model": "syna:item/carved_pumpkin/hoerner_rot/hoerner_rot"},
   {"predicate": {"custom_model_data":8006},
-  "model": "syna:item/propellerhut/propellerhut" },
+  "model": "syna:item/carved_pumpkin/propellerhut/propellerhut" },
 
   {"predicate": {"custom_model_data":8007},
-  "model": "syna:item/halo_engel/halo_engel" },
+  "model": "syna:item/carved_pumpkin/halo_engel/halo_engel" },
   
   {"predicate": {"custom_model_data":8008},
-  "model": "syna:item/daemonenhorn_braun/daemonenhorn_braun" }
+  "model": "syna:item/carved_pumpkin/demonenhorn_braun/demonenhorn_braun" }
   
  ]
 }

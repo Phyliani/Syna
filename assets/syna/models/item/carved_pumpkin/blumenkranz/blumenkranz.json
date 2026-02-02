@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "syna:item/blumenkranz/blumenkranz",
-		"particle": "syna:item/blumenkranz/blumenkranz"
+		"0": "syna:item/carved_pumpkin/blumenkranz/blumenkranz",
+		"particle": "syna:item/carved_pumpkin/blumenkranz/blumenkranz"
 	},
 	"elements": [
 		{

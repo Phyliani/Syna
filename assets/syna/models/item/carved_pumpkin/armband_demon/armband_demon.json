@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "syna:item/armband_elf/armband_elf",
-		"particle": "syna:item/armband_elf/armband_elf"
+		"0": "syna:item/carved_pumpkin/armband_demon/armband_demon",
+		"particle": "syna:item/carved_pumpkin/armband_demon/armband_demon"
 	},
 	"elements": [
 		{
@@ -729,7 +729,7 @@
 	],
 	"display": {
 		"head": {
-			"translation": [0.5, 11.5, -0.75],
+			"translation": [0.5, 11.5, -0.25],
 			"scale": [1.20117, 1.20117, 1.20117]
 		}
 	},
