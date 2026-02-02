@@ -16,6 +16,7 @@
   
   {"predicate": {"custom_model_data":8005}, 
   "model": "syna:item/carved_pumpkin/hoerner_rot/hoerner_rot"},
+  
   {"predicate": {"custom_model_data":8006},
   "model": "syna:item/carved_pumpkin/propellerhut/propellerhut" },
 
