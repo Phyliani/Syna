@@ -5,10 +5,9 @@
     },
     "overrides": [
         {
-            "predicate": {
-                "broken": 1
-            },
+            "predicate": {"broken": 1},
             "model": "item/broken_elytra"
         }
+        
     ]
 }
