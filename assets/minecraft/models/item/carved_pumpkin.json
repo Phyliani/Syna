@@ -23,8 +23,12 @@
   {"predicate": {"custom_model_data":8007},
   "model": "syna:item/carved_pumpkin/halo_engel/halo_engel" },
   
+
   {"predicate": {"custom_model_data":8008},
-  "model": "syna:item/carved_pumpkin/demonenhorn_braun/demonenhorn_braun" }
+  "model": "syna:item/carved_pumpkin/demonenhorn_braun/demonenhorn_braun" },
   
+
+  {"predicate": {"custom_model_data":8009},
+  "model": "syna:item/carved_pumpkin/halo_white/halo_white" }
  ]
 }
