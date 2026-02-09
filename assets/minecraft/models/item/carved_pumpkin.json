@@ -29,7 +29,5 @@
   {"predicate": {"custom_model_data":8009},
   "model": "syna:item/carved_pumpkin/halo_white/halo_white" },
   
-  {"predicate": {"custom_model_data":8010},
-  "model": "syna:item/carved_pumpkin/demon_braun/demonenhorn_braun" }
  ]
 }
