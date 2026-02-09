@@ -2,6 +2,10 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
+	"textures": {
+		"0": "syna:item/carved_pumpkin/demon_braun/demon_braun",
+		"particle": "syna:item/carved_pumpkin/demon_braun/demon_braun"
+	},
 	"elements": [
 		{
 			"from": [3, 0, 7],
